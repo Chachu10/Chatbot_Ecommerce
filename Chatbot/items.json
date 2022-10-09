@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "name": "OnePlus Nord",
+      "price": "The price of OnePlus Nord  is Rs 29,000",
+      "delivery time": "The delivery time is 2-3 days",
+      "size": "The dimensions are 6.43 inches ",
+      "ratings":"7.5/10" ,
+      "link": "https://www.amazon.in/OnePlus-Nord-Bahamas-128GB-Storage/dp/B09RG5R5FG/ref=sr_1_7?qid=1650525305&refinements=p_72%3A1318476031&rnid=1318475031&s=electronics&sr=1-7"
+
+
+    },
+    {
+      "name": "iPhone 13",
+      "price": "The price of iPhone 13 is Rs 80,000",
+      "delivery time": "The delivery time is 6-7 days",
+      "size": "The dimensions are 6.1 inches",
+      "ratings":"9/10", 
+      "link": "https://www.apple.com/in/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-green?afid=p238%7Cs4J7aiZj1-dc_mtid_187079nc38483_pcrid_546522262763_pgrid_127731326776_pntwk_g_pchan_online_pexid__&cid=aos-IN-kwgo-pla-iphone--slid---product-MNGK3HN/A-IN"
+    },
+    {
+      "name": "Galaxy S22",
+      "price": "The price of Galaxy S22 is Rs 1,10,000",
+      "delivery time": "The delivery time is 8 days",
+      "size": "The dimensions are 6.8 inches",
+      "ratings":" 8.8/10" ,
+      "link": "https://www.samsung.com/in/smartphones/galaxy-s22/"
+    },
+    {
+      "name": "iQOO 9",
+      "price": "The price of iQOO 9 is Rs 65,000",
+      "delivery time": "The delivery time is 2 days",
+      "size": "The dimensions are 6.5",
+      "ratings":"9/10" ,
+      "link":"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCr_Sairb3AhWLqVYBHUTADiwQFnoECA4QAQ&url=https%3A%2F%2Fwww.mysmartprice.com%2Fmobile%2Fiqoo-9-msp17320&usg=AOvVaw1_G1GmSi_tGG-pGgLRVfcn"
+    },
+    {
+      "name": "Pixel 6",
+      "price": "The price of Pixel 6 is Rs 69,900",
+      "delivery time": "The delivery time is 1 week",
+      "size": "The dimensions are 6.4 inches ",
+      "ratings":"8/10" ,
+      "link":"https://www.amazon.in/Google-Pixel-Stromy-Black-Storage/dp/B09HJYV6TC/ref=asc_df_B09HJYV6TC/?tag=googleshopdes-21&linkCode=df0&hvadid=545056707020&hvpos=&hvnetw=g&hvrand=3765146148382030876&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9300146&hvtargid=pla-1455158713582&psc=1 "
+    },
+    {
+      "name": "Realme narzo",
+      "price": "The price of Realme Narzo is Rs 20,000",
+      "delivery time": "The delivery time is 3 days",
+      "size": "The dimensions are 6.6 inches ",
+      "ratings":"5/10" ,
+      "link":"https://www.amazon.in/gp/product/B09RMQYHLH/ref=s9_acss_bw_cg_Budget_2b1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-15&pf_rd_r=WHGF759DP3ZHAN1WTMC1&pf_rd_t=101&pf_rd_p=989c538e-3969-464a-bb05-937eb1df6be8&pf_rd_i=1389401031 "
+    },
+    {
+      "name": "Samsung M12",
+      "price": "The price of Samsung M12 is Rs 11,500",
+      "delivery time": "The delivery time is 6 days",
+      "size": "The dimensions are 6.5 inches ",
+      "ratings":"5.5/10" ,
+      "link":"https://www.amazon.in/Samsung-Galaxy-M12-Storage-Processor/dp/B08XGDN3TZ/ref=sr_1_1?qid=1650565372&refinements "
+    },
+    {
+      "name": "Redmi Activ",
+      "price": "The price of Redmi Active is Rs 9,500",
+      "delivery time": "The delivery time is 2 days",
+      "size": "The dimensions are 6.53 inches ",
+      "ratings":"8/10" ,
+      "link":"https://www.amazon.in/Google-Pixel-Stromy-Black-Storage/dp/B09HJYV6TC/ref=asc_df_B09HJYV6TC/?tag=googleshopdes-21&linkCode=df0&hvadid=545056707020&hvpos=&hvnetw=g&hvrand=3765146148382030876&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9300146&hvtargid=pla-1455158713582&psc=1 "
+    },
+    {
+      "name": "Redmi Note 11",
+      "price": "The price of Redmi Note 11 is Rs 13,500",
+      "delivery time": "The delivery time is 1 week",
+      "size": "The dimensions are 6.43 inches ",
+      "ratings":"8/10" ,
+      "link": "https://www.amazon.in/Redmi-Horizon-Qualcomm%C2%AE-SnapdragonTM-Included/dp/B09QSBXK96/ref=psdc_1805560031_t3_B08XGDN3TZ"
+    },
+    {  
+      "name": "OnePlus 9RT",
+      "price": "The price of OnePlus 9RT is Rs 48,000",
+      "delivery time": "The delivery time is 1 week",
+      "size": "The dimensions are 6.62 inches ",
+      "ratings":"9.2/10" ,
+      "link":"https://www.amazon.in/OnePlus-Hacker-Storage-hands-free-capable/dp/B09MQBS6VW/ref=sr_1_24?qid=1650565624&refinements=p_89%3AApple%7COnePlus%7CSamsung&rnid=3837712031&s=electronics&sr=1-24"
+    },
+    {
+      "name": "iPhone 12",
+      "price": "The price of iPhone 12  is Rs 60,900",
+      "delivery time": "The delivery time is 5 days",
+      "size": "The dimensions are 6.2 inches ",
+      "ratings":"8.2/10" ,
+      "link":"https://www.google.com/aclk?sa=L&ai=DChcSEwjt5pPj5KX3AhUUk2YCHXFUCqMYABADGgJzbQ&ae=2&sig=AOD64_3UQRk5uZIiBHAq-izXBC7s5Gs_dQ&ctype=5&q=&ved=2ahUKEwiXwozj5KX3AhV0TGwGHYHhB5sQ9aACegQIAhBV&adurl= "
+    },
+    {
+      "name": "Oppo Reno 5",
+      "price": "The price of Oppo Reno 5  is Rs 30,900",
+      "delivery time": "The delivery time is 3 days",
+      "size": "The dimensions are 6.55 inches ",
+      "ratings":"9/10" ,
+      "link":"https://www.amazon.in/Starry-Storage-Additional-Exchange-Offers/dp/B08LRFGM3T/ref=sr_1_1?adgrpid=61069815325&ext_vrnc=hi&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWpu_JlImxY1J1rnOeisLNKxvUBVLMHHi5A9mNuhx6RZjejiF3AoUQaAr0bEALw_wcB&hvadid=398059830235&hvdev=c&hvlocphy=20461&hvnetw=g&hvqmt=b&hvrand=4497526866572498179&hvtargid=kwd-1077380225467&hydadcr=24566_1971421&keywords=oppo+reno5+pro+5g&qid=1651126505&sr=8-1"
+    },
+    {
+      "name": "Xiaomi 11i",
+      "price": "The price of Xiaomi 11i  is Rs 26,999",
+      "delivery time": "The delivery time is 4 days",
+      "size": "The dimensions are 6.67 inches ",
+      "ratings":"8.1/10" ,
+      "link":"https://www.amazon.in/Xiaomi-Purple-Mist-128GB-Storage/dp/B09QD2BNFZ/ref=sr_1_1?keywords=xiaomi+11i&qid=1651126529&sprefix=xiaomi%2Caps%2C1445&sr=8-1"
+    },
+    {
+      "name": "Samsung A52s",
+      "price": "The price of iPhone 12  is Rs 60,900",
+      "delivery time": "The delivery time is 5 days",
+      "size": "The dimensions are 6.2 inches ",
+      "ratings":"8.2/10" ,
+      "link":"https://www.google.com/aclk?sa=L&ai=DChcSEwjt5pPj5KX3AhUUk2YCHXFUCqMYABADGgJzbQ&ae=2&sig=AOD64_3UQRk5uZIiBHAq-izXBC7s5Gs_dQ&ctype=5&q=&ved=2ahUKEwiXwozj5KX3AhV0TGwGHYHhB5sQ9aACegQIAhBV&adurl= "
+    }
+    
+
+  ],
+  "items": ["OnePlus Nord", "iPhone 13", "Galaxy S22", "iQOO 9", "Pixel 6","Realme narzo","Samsung M12","Redmi Activ","Redmi Note 11","OnePlus 9RT","iPhone 12","Oppo Reno 5","Xiaomi 11i","Samsung A52s"]
+}
